@@ -88,7 +88,7 @@ export default function Microevolucion() {
             </p>
 
             <ImageBlock
-              src="/manus-storage/dp6LUxzDIlTG_5fd43ca0.png"
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Gene_pool.svg/640px-Gene_pool.svg.png"
               alt="Diagrama de frecuencia alélica y acervo génico"
               caption="El acervo génico y cómo se calculan las frecuencias alélicas en una población"
               attribution="Khan Academy"
@@ -132,7 +132,7 @@ export default function Microevolucion() {
             </p>
 
             <ImageBlock
-              src="/manus-storage/GBBDlzGR5sU7_79b5a54b.png"
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Hardy-Weinberg_Principle.svg/640px-Hardy-Weinberg_Principle.svg.png"
               alt="Diagrama del principio de Hardy-Weinberg"
               caption="El equilibrio de Hardy-Weinberg: cálculo de frecuencias genotípicas a partir de frecuencias alélicas"
               attribution="Biology LibreTexts"
@@ -214,14 +214,14 @@ export default function Microevolucion() {
             </p>
 
             <ImageBlock
-              src="/manus-storage/GheiGRMQghgF_dca91368.jpg"
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Melanistic_Moths.jpg/640px-Melanistic_Moths.jpg"
               alt="Polillas del abedul claras y oscuras"
               caption="Las polillas del abedul: ejemplo clásico de selección natural direccional"
               attribution="BBC News"
             />
 
             <ImageBlock
-              src="/manus-storage/1ijBuYbayRSl_0b623127.jpg"
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Biston_betularia_f._carbonaria.jpg/640px-Biston_betularia_f._carbonaria.jpg"
               alt="Experimento de selección natural con polillas"
               caption="Simulación del experimento de selección natural con polillas del abedul"
               attribution="The Learning Zone"
@@ -264,14 +264,14 @@ export default function Microevolucion() {
             </p>
 
             <ImageBlock
-              src="/manus-storage/pTvoArhal0So_618b12bf.jpg"
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Acinoonyx_jubatus_in_California.jpg/640px-Acinoonyx_jubatus_in_California.jpg"
               alt="Efecto cuello de botella en guepardos"
               caption="El efecto cuello de botella: los guepardos sufrieron una drástica reducción poblacional hace miles de años"
               attribution="National Geographic"
             />
 
             <ImageBlock
-              src="/manus-storage/bdKJXnpdajWs_116462fc.jpg"
+              src="https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=640"
               alt="Causas del efecto cuello de botella"
               caption="Causas comunes del efecto cuello de botella: erupciones volcánicas, terremotos, caza excesiva y contaminación radiactiva"
             />
@@ -308,7 +308,7 @@ export default function Microevolucion() {
             </p>
 
             <ImageBlock
-              src="/manus-storage/r7kogR7aNeTl_727e16e3.png"
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Gene_flow.jpg/640px-Gene_flow.jpg"
               alt="Diagrama de flujo génico por migración"
               caption="El flujo génico: cómo la migración de individuos transporta alelos entre poblaciones"
               attribution="Expii"
@@ -321,7 +321,7 @@ export default function Microevolucion() {
             </p>
 
             <ImageBlock
-              src="/manus-storage/9DhrebQle4G1_1da9a3e1.jpg"
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Migration_of_fishes.jpg/640px-Migration_of_fishes.jpg"
               alt="Barreras geográficas y flujo génico"
               caption="Las barreras geográficas como montañas pueden limitar el flujo génico entre poblaciones"
               attribution="Biology educational material"
@@ -370,13 +370,13 @@ export default function Microevolucion() {
             </p>
 
             <ImageBlock
-              src="/manus-storage/3AbBAd56NA6D_f51578a8.jpg"
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DNA_orange_and_green.svg/640px-DNA_orange_and_green.svg.png"
               alt="Causas de las mutaciones"
               caption="Principales causas de mutaciones: errores de replicación, radiación, sustancias químicas y virus"
             />
 
             <ImageBlock
-              src="/manus-storage/NnHdpB2XjttA_aaf7b66b.jpg"
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Simple_DNA_Replication.svg/640px-Simple_DNA_Replication.svg.png"
               alt="Relación entre mutaciones y evolución"
               caption="Las mutaciones son la fuente de variación genética sobre la cual actúa la selección natural"
             />
@@ -415,13 +415,13 @@ export default function Microevolucion() {
             </p>
 
             <ImageBlock
-              src="/manus-storage/beW4AZw0XhJW_02970f75.jpg"
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Speciation_modes.png/640px-Speciation_modes.png"
               alt="Diagrama de especiación"
               caption="Etapas de la especiación: desde la formación de barreras hasta el aislamiento reproductivo completo"
             />
 
             <ImageBlock
-              src="/manus-storage/XlFO08sBdcEo_8b307230.jpg"
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Darwin%27s_finches_by_Gould.jpg/640px-Darwin%27s_finches_by_Gould.jpg"
               alt="Pinzones de Darwin con diferentes picos"
               caption="Los pinzones de Darwin en las Islas Galápagos: ejemplo clásico de especiación alopátrica y radiación adaptativa"
               attribution="Harvard Gazette"
@@ -451,7 +451,7 @@ export default function Microevolucion() {
             </p>
 
             <ImageBlock
-              src="/manus-storage/K6CSCejCoOBz_d1478553.jpg"
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Darwin_finches.png/640px-Darwin_finches.png"
               alt="Pinzones de Darwin en las Galápagos"
               caption="Los pinzones de Darwin: cada especie desarrolló un pico adaptado a su alimento específico"
               attribution="National Geographic Education"
@@ -483,7 +483,7 @@ export default function Microevolucion() {
             </p>
 
             <ImageBlock
-              src="/manus-storage/BOpo8xnEnvgM_ef19aa39.jpg"
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Dinosauria.jpg/640px-Dinosauria.jpg"
               alt="Evidencias fósiles de la evolución"
               caption="Los fósiles son una de las principales evidencias de la evolución a gran escala (macroevolución), que resulta de la acumulación de microevolución a lo largo del tiempo"
             />

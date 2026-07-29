@@ -10,7 +10,7 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row items-center justify-between gap-4">
           <div className="flex items-center gap-3">
             <img
-              src="/manus-storage/logo_tesis_ec45a2d8.png"
+              src="/logo.png"
               alt="Logo"
               className="w-8 h-8 rounded-full"
             />

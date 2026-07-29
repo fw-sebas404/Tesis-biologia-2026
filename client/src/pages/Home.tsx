@@ -16,7 +16,7 @@ export default function Home() {
       <section className="py-16 px-4">
         <div className="container max-w-4xl mx-auto text-center">
           <img
-            src="/manus-storage/logo_tesis_ec45a2d8.png"
+            src="/logo.png"
             alt="Tesis Digital Biología"
             className="w-32 h-32 mx-auto rounded-full shadow-lg border-4 border-[#4CAF50]/20 mb-6"
           />

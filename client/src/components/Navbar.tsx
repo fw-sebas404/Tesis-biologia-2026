@@ -21,7 +21,7 @@ export default function Navbar() {
           <Link href="/">
             <div className="flex items-center gap-3">
               <img
-                src="/manus-storage/logo_tesis_ec45a2d8.png"
+                src="/logo.png"
                 alt="Logo Tesis Digital"
                 className="w-10 h-10 rounded-full object-cover border-2 border-[#2E7D32]/30"
               />
