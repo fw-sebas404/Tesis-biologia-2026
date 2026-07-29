@@ -20,11 +20,10 @@ La tesis digital incluye las siguientes secciones:
 
 ## Diseño
 
-- Paleta de colores verdes (eco-educativo)
-- Todas las esquinas redondeadas (sin bordes puntiagudos)
-- Tipografía Nunito (amigable y legible)
+- Paleta de colores verdes
+- Todas las esquinas redondeadas
+- Tipografía Nunito
 - Menú superior de navegación
-- Logo generado con IA
 - Imágenes reales con atribuciones
 
 ## Tecnologías
